@@ -1,0 +1,31 @@
+{
+  "name": "letter-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npx standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm902/letter-game.git"
+  },
+  "keywords": [
+    "game",
+    "letter",
+    "keyboard",
+    "html"
+  ],
+  "author": "lm902",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lm902/letter-game/issues"
+  },
+  "homepage": "https://github.com/lm902/letter-game#readme",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
